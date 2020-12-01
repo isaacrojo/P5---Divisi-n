@@ -1,2 +1,2 @@
-# P5---Divisi-n
+# P5---Division
 Sobre el proyecto de la calculadora, desarrollar las pruebas y funcionalidad de división de la calculadora.
